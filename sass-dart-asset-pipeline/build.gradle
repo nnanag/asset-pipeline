@@ -17,7 +17,7 @@ buildscript {
 
 apply plugin: 'groovy'
 //apply plugin: 'maven-publish'
-apply plugin: 'ctp-simple-artifact-publishing'
+apply plugin: 'ctp-artifact-publishing'
 apply plugin: 'ctp-githooks'
 apply plugin: 'java-library'
 apply plugin: 'idea'
